@@ -1,5 +1,8 @@
 {
     "name": "sonata-project/formatter-bundle",
+    "replace": {
+        "sonata-project/formatter-bundle": "*"
+    },
     "type": "symfony-bundle",
     "description": "Symfony SonataFormatterBundle",
     "keywords": [
