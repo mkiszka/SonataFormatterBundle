@@ -1,5 +1,5 @@
 {
-    "name": "sonata-project/formatter-bundle",
+    "name": "mkiszka/formatter-bundle",
     "replace": {
         "sonata-project/formatter-bundle": "*"
     },
